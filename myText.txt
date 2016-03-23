@@ -2,4 +2,4 @@ first row
 
 second row
 
-added row in my2ndbranch
+added row in master-branch
