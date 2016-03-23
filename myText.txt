@@ -2,4 +2,9 @@ first row
 
 second row
 
+
 added row in master-branch
+
+added row in my2ndbranch
+
+in merge I leave both row from master and from my2ndbranch
